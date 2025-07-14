@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\ToDoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|c:\\source\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|c:\\source\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|c:\\source\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|c:\\source\\todoapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|c:\\source\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|c:\\source\\todoapi\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D152F-38A6-4B85-A7EF-1E621D4E9788}|ToDoApi\\ToDoApi.csproj|solutionrelative:todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998EE3BF-DC49-47AA-99CE-01FEF278EFC2}|Solution Items{998EE3BF-DC49-47AA-99CE-01FEF278EFC2}|C:\\Source\\ToDoApi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{998EE3BF-DC49-47AA-99CE-01FEF278EFC2}|Solution Items{998EE3BF-DC49-47AA-99CE-01FEF278EFC2}|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Source\\ToDoApi\\ToDoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Source\\ToDoApi\\ToDoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "ToDoApi\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAewFIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:25:36.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Source\\ToDoApi\\ToDoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Source\\ToDoApi\\ToDoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "ToDoApi\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:20:05.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Source\\ToDoApi\\ToDoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Source\\ToDoApi\\ToDoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "ToDoApi\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:08:22.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\ToDoApi\\ToDoApi\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Program.cs",
+              "ToolTip": "C:\\Source\\ToDoApi\\ToDoApi\\Program.cs",
+              "RelativeToolTip": "ToDoApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:02:55.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoApi.http",
+              "DocumentMoniker": "C:\\Source\\ToDoApi\\ToDoApi\\ToDoApi.http",
+              "RelativeDocumentMoniker": "ToDoApi\\ToDoApi.http",
+              "ToolTip": "C:\\Source\\ToDoApi\\ToDoApi\\ToDoApi.http",
+              "RelativeToolTip": "ToDoApi\\ToDoApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-12T05:44:39.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Source\\ToDoApi\\ToDoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ToDoApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Source\\ToDoApi\\ToDoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ToDoApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:11:12.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Source\\ToDoApi\\readme.md",
+              "RelativeDocumentMoniker": "readme.md",
+              "ToolTip": "C:\\Source\\ToDoApi\\readme.md",
+              "RelativeToolTip": "readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-12T04:54:08.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
