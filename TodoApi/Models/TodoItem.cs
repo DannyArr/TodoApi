@@ -6,3 +6,9 @@ public class TodoItem
     public string? Name { get; set; }
     public bool IsComplete { get; set; }
 }
+
+public class TodoItemCreateDto
+{
+    public string? Name { get; set; }
+    public bool IsComplete { get; set; }
+}
